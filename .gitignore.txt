@@ -1,0 +1,30 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# C/C++ compiled files
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Build directories
+build/
+out/
+
+# Archives
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
