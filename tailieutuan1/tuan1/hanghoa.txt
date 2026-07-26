@@ -1,0 +1,6 @@
+5
+SP1 Sach 10
+SP2 Tap 3
+SP3 Tivi 7
+SP4 QuatMay 2
+SP5 DienThoai 10

@@ -1,0 +1,7 @@
+6
+118 8.00 7.50 9.00 LeMinh Son
+121 4.40 8.20 7.60 LeHuy Ngo
+152 5.00 6.50 8.00 NgoVan HAn
+123 8.00 7.50 9.00 NguyenDuc Hung
+212 4.40 4.50 7.60 TranLe Hien
+222 8.00 8.00 6.50 NguyenVan Phuc

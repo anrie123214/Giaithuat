@@ -1,0 +1,9 @@
+8
+102 5.0 6.0 8.0 6.3 NguyenVan An
+215 7.6 7.7 8.2 7.8 NguyenHuy Hoang
+118 8.0 7.5 9.0 8.2 LeMinh Son
+121 4.4 8.2 7.6 6.7 LeHuy Ngo
+152 5.0 6.5 8.0 6.5 NgoVan An
+123 8.0 7.5 9.0 8.2 NguyenDuc Hung
+212 4.4 4.5 7.6 5.5 TranLe Hien
+222 8.0 8.0 6.5 7.5 NguyenVan Phuc
